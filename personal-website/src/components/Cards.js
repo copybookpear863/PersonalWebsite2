@@ -6,7 +6,6 @@ import MTApp from '../images/MTApp.png';
 import GitHub from '../images/github.png';
 import MATLAB from '../images/MATLAB-logo.png';
 import MMT from '../images/mammamiathumbnail.jpeg';
-import HTFC from '../images/HTFOMOCover.png';
 import HTWC from '../images/HTWomenCover.png';
 import Boeing from '../images/Boeing.png';
 
