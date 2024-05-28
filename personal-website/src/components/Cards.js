@@ -58,12 +58,6 @@ function Cards() {
               label='RUHS High Tide'
               path='https://ruhsmedia.com/2022/04/thank-you-for-the-music/'
             />
-             <CardItem
-              src={HTFC}
-              text="Helping From Home — RUHS students participate in bake sales and supply drives to support Ukranians during the war with Russia"
-              label='RUHS High Tide'
-              path='https://issuu.com/hightideonline/docs/issue_9/2'
-            />
             <CardItem
               src={HTWC}
               text="Decoding the path to STEM — Female students and teachers at RUHS work on creating a space for girls to enter STEM and explore their interests"
